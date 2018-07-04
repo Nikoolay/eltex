@@ -2,5 +2,5 @@
 
 void fan()
 {
-  printf("Go to hell!\n");
+  printf("Hello!\n");
 }
