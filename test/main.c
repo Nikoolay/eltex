@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "fan.h"
 
 int main()
 {
